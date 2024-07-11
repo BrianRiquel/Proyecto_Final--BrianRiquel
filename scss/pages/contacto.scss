@@ -18,6 +18,8 @@
             margin: 10px;
             height: 30px;
             width: 50px;
+            background-color: bisque;
+            border-style: double;
         }
 
         @include media-query-small() {
